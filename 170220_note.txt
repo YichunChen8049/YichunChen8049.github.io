@@ -1,0 +1,37 @@
+h1{我是小標題}按tab
+
+h${}*6  就有1-6個標題
+
+h2{}+h3{}
+
+div>h1{}+h2{}  群組
+
+p 一般文字(內文)
+
+<!-- 我是註解 -->    ctrl+\
+
+ctrl+B  尋找+取代
+
+綠色是屬性 (lang="en")英文  (lang="zh-tw")中文
+
+html 決定內容
+
+css 決定網頁呈現(色彩 字型...)
+
+java scrip 動態呈現
+
+ruby on rails / nodejs (java scrip寫的): angular(google>type scrip 很精簡，未來JS) react(facebook>ecma6 未來JS) vue(sn>java scrip) ->動態網站
+
+<a href="">google</a>  超連結
+
+target="_blank"  打開分頁
+
+<img src="" alt="">  圖片
+
+<../../..>  退一格資料夾
+
+AMP >google寫的  照他的框架寫  在手機開會比較快
+
+h3 {color: #1c44ef}   選取色碼+ctrl+E  可以直接選色
+
+<meta charset="UTF-8">  每個字母有對應一個數字  預防文字編碼錯亂
