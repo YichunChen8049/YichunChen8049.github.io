@@ -1,0 +1,55 @@
+header {
+    background: url('../img/david-marcu-114194.jpg');
+    background-repeat: no-repeat;    
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    padding-top: 280px;
+    
+}
+
+header h1 {
+    color: #ffffff;
+    margin: 0 auto;
+    margin-top: 0;
+    text-align: center;
+    font-size: 70px   
+}
+
+header p {
+    color: #ffffff;
+    text-align: center;
+    text-decoration: overline;
+    font-size: 18px;
+    
+}
+
+header a {
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    color: #414141;
+}
+
+span {
+    text-decoration-color: #00aa62;
+}
